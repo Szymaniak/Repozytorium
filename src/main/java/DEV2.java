@@ -1,5 +1,4 @@
-public class Main {
-    public class dev1 {
+
+    public class DEV2 {
         static String autor = "Adrian Gwiazdowski";
     }
-}
